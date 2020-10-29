@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_violet.mk
+    $(LOCAL_DIR)/conquer_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_violet-userdebug \
-    dot_violet-eng \
-    dot_violet-user
+    conquer_violet-userdebug \
+    conquer_violet-eng \
+    conquer_violet-user
